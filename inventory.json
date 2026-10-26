@@ -1,6 +1,6 @@
 {
   "dealership": "Journey Vw Of Coquitlam",
-  "generated_at": "2026-10-25T18:59:31",
+  "generated_at": "2026-10-26T04:15:34",
   "vehicle_count": 100,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -10,7 +10,7 @@
       "vin": "3VWEW7BU3TM050855",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/f27ec28d8866.html",
       "condition": "new",
-      "price": 33577.0,
+      "price": 33077.0,
       "price_currency": "CAD"
     },
     {
@@ -18,7 +18,7 @@
       "vin": "3VWEW7BU9TM064064",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/230617329c41.html",
       "condition": "new",
-      "price": 33577.0,
+      "price": 33077.0,
       "price_currency": "CAD"
     },
     {
@@ -26,7 +26,7 @@
       "vin": "3VWEW7BU5TM057354",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/80888b1f1951.html",
       "condition": "new",
-      "price": 33577.0,
+      "price": 33077.0,
       "price_currency": "CAD"
     },
     {
@@ -34,7 +34,7 @@
       "vin": "3VWCW7BU2TM067797",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/1b84b3b71f9d.html",
       "condition": "new",
-      "price": 31577.0,
+      "price": 31077.0,
       "price_currency": "CAD"
     },
     {
@@ -42,7 +42,7 @@
       "vin": "3VWCW7BU6TM066944",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/c07f075ba078.html",
       "condition": "new",
-      "price": 31577.0,
+      "price": 31077.0,
       "price_currency": "CAD"
     },
     {
@@ -50,7 +50,7 @@
       "vin": "3VWCW7BU6TM067995",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/c087f6c33382.html",
       "condition": "new",
-      "price": 31577.0,
+      "price": 31077.0,
       "price_currency": "CAD"
     },
     {
@@ -58,7 +58,7 @@
       "vin": "3VV2C7B2XTM052312",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/80c306491e3e.html",
       "condition": "new",
-      "price": 42102.0,
+      "price": 41602.0,
       "price_currency": "CAD"
     },
     {
@@ -66,7 +66,7 @@
       "vin": "3VV2C7B24TM051382",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/e6fd996fde88.html",
       "condition": "new",
-      "price": 42102.0,
+      "price": 41602.0,
       "price_currency": "CAD"
     },
     {
@@ -74,7 +74,7 @@
       "vin": "3VV2C7B2XTM053444",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/a097f759080c.html",
       "condition": "new",
-      "price": 42102.0,
+      "price": 41602.0,
       "price_currency": "CAD"
     },
     {
@@ -82,7 +82,7 @@
       "vin": "3VV2C7B28TM060232",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/d90e028eb33e.html",
       "condition": "new",
-      "price": 42102.0,
+      "price": 41602.0,
       "price_currency": "CAD"
     },
     {
@@ -90,7 +90,7 @@
       "vin": "3VVVC7B24TM072097",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/f1a416b0187f.html",
       "condition": "new",
-      "price": 41602.0,
+      "price": 41102.0,
       "price_currency": "CAD"
     },
     {
@@ -98,7 +98,7 @@
       "vin": "3VVVC7B27TM081439",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/5c1f8172d505.html",
       "condition": "new",
-      "price": 41602.0,
+      "price": 41102.0,
       "price_currency": "CAD"
     },
     {
@@ -106,7 +106,7 @@
       "vin": "3VV2C7B20TM048527",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/f72aa364899a.html",
       "condition": "new",
-      "price": 42102.0,
+      "price": 41602.0,
       "price_currency": "CAD"
     },
     {
@@ -356,7 +356,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 13095.0,
+      "price": 11995.0,
       "price_currency": "CAD"
     },
     {
@@ -367,7 +367,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 16999.0,
+      "price": 15938.0,
       "price_currency": "CAD"
     },
     {
@@ -411,7 +411,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 13999.0,
+      "price": 11937.0,
       "price_currency": "CAD"
     },
     {
@@ -422,7 +422,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 13999.0,
+      "price": 11937.0,
       "price_currency": "CAD"
     },
     {
@@ -444,7 +444,7 @@
       "make": "Lexus",
       "model": "IS",
       "condition": "used",
-      "price": 32999.0,
+      "price": 29998.0,
       "price_currency": "CAD"
     },
     {
@@ -467,6 +467,28 @@
       "model": "Outlander PHEV",
       "condition": "used",
       "price": 26223.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Volkswagen Tiguan Iq Drive 2.0t 8sp Atin Coquitlam",
+      "vin": "3VV2B7AX9LM086208",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/7fe6aa472bee.html",
+      "year": 2020,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 25999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Volkswagen Tiguan ",
+      "vin": "3VV2B7AX9LM086208",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/3b281b2c9e44.html",
+      "year": 2020,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 25999.0,
       "price_currency": "CAD"
     },
     {
@@ -720,28 +742,6 @@
       "model": "Atlas",
       "condition": "used",
       "price": 38899.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos Trendline 1.5t 7spin Coquitlam",
-      "vin": "3VVGX7B28RM083996",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/19bcec009945.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 23902.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVGX7B28RM083996",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/85d2be4d60db.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 23902.0,
       "price_currency": "CAD"
     },
     {
