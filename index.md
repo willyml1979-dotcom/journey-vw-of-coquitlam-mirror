@@ -1,6 +1,6 @@
 # Journey VW of Coquitlam
 
- dealership in Coquitlam. AI-readable inventory mirror, about 101 vehicles.
+ dealership in Coquitlam. AI-readable inventory mirror, about 99 vehicles.
 
 - Official website: https://www.vwofcoquitlam.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/
