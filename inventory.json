@@ -1,7 +1,7 @@
 {
   "dealership": "Journey Vw Of Coquitlam",
-  "generated_at": "2026-11-17T20:20:14",
-  "vehicle_count": 99,
+  "generated_at": "2026-11-18T05:43:37",
+  "vehicle_count": 96,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -94,11 +94,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Volkswagen Jetta 2023 for salein Coquitlam",
-      "vin": "3VWSM7BU6PM042523",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/4d21eed5d5eb.html",
+      "name": "GMC Yukon 2024 for salein Coquitlam",
+      "vin": "1GKS2BKT1RR283057",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/993e1c1c6224.html",
       "condition": "used",
-      "price": 23521.0,
+      "price": 72858.0,
       "price_currency": "CAD"
     },
     {
@@ -158,11 +158,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Atlas 2025 for salein Coquitlam",
+      "vin": "1V2FR2CA8SC514307",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/ef58089fc451.html",
+      "condition": "used",
+      "price": 49622.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas Cross Sport 2025 for salein Coquitlam",
+      "vin": "1V2LE2CA9SC220834",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/605c8ec7dfea.html",
+      "condition": "used",
+      "price": 41859.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Jetta 2025 for salein Coquitlam",
+      "vin": "3VWSX7BU4SM108423",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/14e1a744ae01.html",
+      "condition": "used",
+      "price": 26650.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Taos 2025 for salein Coquitlam",
       "vin": "3VV4C7B29SM004145",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/e6fe5cafc8ff.html",
       "condition": "used",
       "price": 35999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2025 for salein Coquitlam",
+      "vin": "3VVBR7RM8SM049395",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/9d484e08d908.html",
+      "condition": "used",
+      "price": 34904.0,
       "price_currency": "CAD"
     },
     {
@@ -174,6 +206,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Taos 2026 for salein Coquitlam",
+      "vin": "3VV8C7B28TM002468",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/459c0bc789da.html",
+      "condition": "used",
+      "price": 36370.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2009 Nissan Rogue ",
       "vin": "JN8AS58V99W163966",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/726beb5a59e0.html",
@@ -182,28 +222,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 7200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Volkswagen Beetle Comfortline 2.5l 6spin Coquitlam",
-      "vin": "3VW5X7AT8DM828560",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/5ad08033c39d.html",
-      "year": 2013,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used",
-      "price": 14992.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Volkswagen Beetle ",
-      "vin": "3VW5X7AT8DM828560",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/679e958202cb.html",
-      "year": 2013,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used",
-      "price": 14992.0,
       "price_currency": "CAD"
     },
     {
@@ -313,7 +331,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 25999.0,
+      "price": 23445.0,
       "price_currency": "CAD"
     },
     {
@@ -394,28 +412,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Jetta Comfortline 1.5 Tin Coquitlam",
-      "vin": "3VWSM7BU6PM042523",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/a77f233ded52.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 23521.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Yukon ",
-      "vin": "1GKS2BKT1RR283057",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/993e1c1c6224.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Yukon",
-      "condition": "used",
-      "price": 72858.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Volkswagen Atlas Comfortline 2.0 Tsiin Coquitlam",
       "vin": "1V2LR2CA7RC569988",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/a7b6b2d40910.html",
@@ -482,17 +478,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Atlas ",
-      "vin": "1V2FR2CA8SC514307",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/ef58089fc451.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 49622.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Atlas Cross Sport Comfortline 2.0 Tsiin Coquitlam",
       "vin": "1V2LE2CA9SC220834",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/bb41f0d462f5.html",
@@ -501,17 +486,6 @@
       "model": "Atlas Cross Sport",
       "condition": "used",
       "price": 41859.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2LE2CA9SC220834",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/605c8ec7dfea.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 43059.0,
       "price_currency": "CAD"
     },
     {
@@ -570,17 +544,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Jetta ",
-      "vin": "3VWSX7BU4SM108423",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/14e1a744ae01.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 26650.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Taos Highline 4motionin Coquitlam",
       "vin": "3VV4C7B29SM004145",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/2f3644508229.html",
@@ -614,17 +577,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Tiguan ",
-      "vin": "3VVBR7RM8SM049395",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/9d484e08d908.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 34904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Taos Highline 4motionin Coquitlam",
       "vin": "3VV4C7B21TM047721",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/a705e6aa6979.html",
@@ -633,17 +585,6 @@
       "model": "Taos",
       "condition": "used",
       "price": 39838.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Taos ",
-      "vin": "3VV8C7B28TM002468",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/459c0bc789da.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 36302.0,
       "price_currency": "CAD"
     },
     {
@@ -742,7 +683,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 41102.0,
+      "price": 41170.0,
       "price_currency": "CAD"
     },
     {
@@ -753,7 +694,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 41102.0,
+      "price": 41170.0,
       "price_currency": "CAD"
     },
     {
@@ -786,7 +727,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 41727.0,
+      "price": 41295.0,
       "price_currency": "CAD"
     },
     {
@@ -808,7 +749,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 41727.0,
+      "price": 41295.0,
       "price_currency": "CAD"
     },
     {
@@ -830,7 +771,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 45227.0,
+      "price": 44795.0,
       "price_currency": "CAD"
     },
     {
@@ -841,7 +782,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 41727.0,
+      "price": 41295.0,
       "price_currency": "CAD"
     },
     {
@@ -852,7 +793,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 45227.0,
+      "price": 44795.0,
       "price_currency": "CAD"
     },
     {
@@ -863,7 +804,7 @@
       "make": "Volkswagen",
       "model": "GLI Sedanin Coquitlam",
       "condition": "new",
-      "price": 39777.0,
+      "price": 39845.0,
       "price_currency": "CAD"
     },
     {
@@ -874,7 +815,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 35977.0,
+      "price": 36045.0,
       "price_currency": "CAD"
     },
     {
@@ -885,7 +826,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 35977.0,
+      "price": 36045.0,
       "price_currency": "CAD"
     },
     {
@@ -914,6 +855,17 @@
       "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Coquitlam",
       "vin": "3VWSW7BU8VM007876",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/fe9df0c69d9a.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 35545.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Coquitlam",
+      "vin": "3VWSW7BU2VM018839",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/30d9129e4e3b.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
@@ -984,7 +936,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 45527.0,
+      "price": 45595.0,
       "price_currency": "CAD"
     },
     {
@@ -1006,7 +958,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 45527.0,
+      "price": 45595.0,
       "price_currency": "CAD"
     },
     {
