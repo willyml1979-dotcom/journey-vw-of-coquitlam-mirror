@@ -1,10 +1,90 @@
 {
   "dealership": "Journey Vw Of Coquitlam",
-  "generated_at": "2026-11-18T05:43:37",
+  "generated_at": "2026-11-18T14:08:29",
   "vehicle_count": 96,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Nissan Rogue 2009 for salein Coquitlam",
+      "vin": "JN8AS58V99W163966",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/726beb5a59e0.html",
+      "condition": "used",
+      "price": 7200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe Sport 2014 for salein Coquitlam",
+      "vin": "5XYZT3LB5EG192398",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/ccb970da8271.html",
+      "condition": "used",
+      "price": 11995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volvo XC90 2016 for salein Coquitlam",
+      "vin": "YV4A22PK7G1027327",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/123b4325ef32.html",
+      "condition": "used",
+      "price": 16453.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X3 2017 for salein Coquitlam",
+      "vin": "5UXWX7C3XH0U43870",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/add84cd1b1d6.html",
+      "condition": "used",
+      "price": 21384.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2017 for salein Coquitlam",
+      "vin": "WVGNV7AX9HK033389",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/13a9d2aaefb0.html",
+      "condition": "used",
+      "price": 11937.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2018 for salein Coquitlam",
+      "vin": "1C4HJWFGXJL915896",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/698e82692421.html",
+      "condition": "used",
+      "price": 27618.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus IS 2019 for salein Coquitlam",
+      "vin": "JTHC81D25K5036651",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/b6e5f4ac5045.html",
+      "condition": "used",
+      "price": 29998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2020 for salein Coquitlam",
+      "vin": "KM8J3CAL5LU205604",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/bd6e73599d10.html",
+      "condition": "used",
+      "price": 21061.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander PHEV 2020 for salein Coquitlam",
+      "vin": "JA4J24A58LZ604048",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/45819f176a1a.html",
+      "condition": "used",
+      "price": 26223.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2020 for salein Coquitlam",
+      "vin": "3VV2B7AX9LM086208",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/3b281b2c9e44.html",
+      "condition": "used",
+      "price": 23445.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Kia Seltos 2021 for salein Coquitlam",
       "vin": "KNDETCA29M7149339",
@@ -214,50 +294,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2009 Nissan Rogue ",
-      "vin": "JN8AS58V99W163966",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/726beb5a59e0.html",
-      "year": 2009,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 7200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Hyundai Santa Fe Sport ",
-      "vin": "5XYZT3LB5EG192398",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/ccb970da8271.html",
-      "year": 2014,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 11995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Volvo XC90 ",
-      "vin": "YV4A22PK7G1027327",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/123b4325ef32.html",
-      "year": 2016,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "used",
-      "price": 18999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 BMW X3 ",
-      "vin": "5UXWX7C3XH0U43870",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/add84cd1b1d6.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 21384.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Volkswagen Tiguan Wolfsburg Editionin Coquitlam",
       "vin": "WVGNV7AX9HK033389",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/468b57a5e900.html",
@@ -269,61 +305,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Volkswagen Tiguan ",
-      "vin": "WVGNV7AX9HK033389",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/13a9d2aaefb0.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 11937.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Jeep Wrangler ",
-      "vin": "1C4HJWFGXJL915896",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/698e82692421.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 27618.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Lexus IS ",
-      "vin": "JTHC81D25K5036651",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/b6e5f4ac5045.html",
-      "year": 2019,
-      "make": "Lexus",
-      "model": "IS",
-      "condition": "used",
-      "price": 29998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Tucson ",
-      "vin": "KM8J3CAL5LU205604",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/bd6e73599d10.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 21061.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Mitsubishi Outlander PHEV ",
-      "vin": "JA4J24A58LZ604048",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/45819f176a1a.html",
-      "year": 2020,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 26223.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Volkswagen Tiguan Iq Drive 2.0t 8sp Atin Coquitlam",
       "vin": "3VV2B7AX9LM086208",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/7fe6aa472bee.html",
@@ -332,17 +313,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 23445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX9LM086208",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/used/3b281b2c9e44.html",
-      "year": 2020,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 25999.0,
       "price_currency": "CAD"
     },
     {
@@ -705,7 +675,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 41602.0,
+      "price": 41670.0,
       "price_currency": "CAD"
     },
     {
@@ -738,7 +708,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 41727.0,
+      "price": 41295.0,
       "price_currency": "CAD"
     },
     {
@@ -760,7 +730,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 45227.0,
+      "price": 44795.0,
       "price_currency": "CAD"
     },
     {
@@ -837,7 +807,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 34377.0,
+      "price": 34445.0,
       "price_currency": "CAD"
     },
     {
@@ -848,7 +818,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 35477.0,
+      "price": 35545.0,
       "price_currency": "CAD"
     },
     {
@@ -929,6 +899,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Taos Comfortline Blackin Coquitlam",
+      "vin": "3VV2D7B25VM031495",
+      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/3d9024267185.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 43170.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Volkswagen Tiguan Comfortline 4motionin Coquitlam",
       "vin": "3VVER7RM2VM000534",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/176e7b245ad4.html",
@@ -965,17 +946,6 @@
       "name": "New 2027 Volkswagen Tiguan Comfortline 4motionin Coquitlam",
       "vin": "3VVER7RM7VM008564",
       "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/d2c64008e3cc.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 45595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Tiguan Comfortline 4motionin Coquitlam",
-      "vin": "3VVER7RMXVM020109",
-      "url": "https://willyml1979-dotcom.github.io/journey-vw-of-coquitlam-mirror/new/24a40898ab08.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Tiguan",
